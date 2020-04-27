@@ -1,0 +1,120 @@
+{
+  "ordens": [
+    {
+      "id": 1,
+      "desc_ativo": "a",
+      "qtd": "b",
+      "preco": "c",
+      "data": "e",
+      "classe_negociacao": "f",
+      "ativo": {
+        "id": 1,
+        "desc_ativo": "Petr3"
+      }
+    },
+    {
+      "id": 2,
+      "desc_ativo": "a",
+      "qtd": "b",
+      "preco": "c",
+      "data": "e",
+      "classe_negociacao": "P",
+      "ativo": {
+        "id": 2,
+        "desc_ativo": "Petr4"
+      }
+    },
+    {
+      "desc_ativo": "c",
+      "qtd": "c",
+      "preco": "c",
+      "data": "c",
+      "classe_negociacao": "",
+      "id": 3
+    },
+    {
+      "desc_ativo": "testea",
+      "qtd": "testeq",
+      "preco": "testep",
+      "data": "tested",
+      "classe_negociacao": "testec",
+      "id": 4
+    },
+    {
+      "desc_ativo": "testea ",
+      "qtd": "testeq ",
+      "preco": "testep ",
+      "data": "tested ",
+      "classe_negociacao": "testec ",
+      "id": 5
+    },
+    {
+      "desc_ativo": {
+        "id": 1,
+        "desc_ativo": "Petr4",
+        "lote_minimo": "50"
+      },
+      "qtd": "10",
+      "preco": "10",
+      "data": "10",
+      "classe_negociacao": "",
+      "id": 6
+    },
+    {
+      "desc_ativo": "Petr4",
+      "qtd": "10",
+      "preco": "Regin",
+      "data": "10",
+      "classe_negociacao": "",
+      "id": 7
+    },
+    {
+      "desc_ativo": "Petr4",
+      "qtd": "1",
+      "preco": "1",
+      "data": "1",
+      "classe_negociacao": "1",
+      "id": 8
+    },
+    {
+      "desc_ativo": "Petr4",
+      "qtd": "1",
+      "preco": "1",
+      "data": "1",
+      "classe_negociacao": "1",
+      "id": 9
+    },
+    {
+      "desc_ativo": "Teste",
+      "qtd": "aaa",
+      "preco": "aaaa",
+      "data": "ccc",
+      "classe_negociacao": "aaa",
+      "id": 10
+    }
+  ],
+  "posicoes": [
+    {
+      "id": 1,
+      "desc_ativo": "Petr4",
+      "qtd": "50"
+    },
+    {
+      "id": 2,
+      "desc_ativo": "Petr3",
+      "qtd": "20"
+    }
+  ],
+  "ativos": [
+    {
+      "id": 1,
+      "desc_ativo": "Petr4",
+      "lote_minimo": "50"
+    },
+    {
+      "id": 2,
+      "desc_ativo": "Teste",
+      "lote_minimo": "10"
+    }
+  ]
+}
